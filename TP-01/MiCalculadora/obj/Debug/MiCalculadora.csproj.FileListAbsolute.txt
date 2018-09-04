@@ -1,0 +1,13 @@
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\bin\Debug\Entidades.dll
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Gutierrez.Juliet\TP-01\MiCalculadora\obj\Debug\MiCalculadora.pdb

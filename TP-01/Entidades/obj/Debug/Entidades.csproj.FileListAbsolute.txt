@@ -1,0 +1,6 @@
+D:\Gutierrez.Juliet\TP-01\Entidades\bin\Debug\Entidades.dll
+D:\Gutierrez.Juliet\TP-01\Entidades\bin\Debug\Entidades.pdb
+D:\Gutierrez.Juliet\TP-01\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Gutierrez.Juliet\TP-01\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Gutierrez.Juliet\TP-01\Entidades\obj\Debug\Entidades.dll
+D:\Gutierrez.Juliet\TP-01\Entidades\obj\Debug\Entidades.pdb
