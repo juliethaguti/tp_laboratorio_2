@@ -1,0 +1,9 @@
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

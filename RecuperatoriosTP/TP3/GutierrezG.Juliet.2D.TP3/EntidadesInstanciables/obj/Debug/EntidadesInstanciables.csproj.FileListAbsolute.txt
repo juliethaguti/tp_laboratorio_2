@@ -1,0 +1,13 @@
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\Archivo.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\Archivo.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
