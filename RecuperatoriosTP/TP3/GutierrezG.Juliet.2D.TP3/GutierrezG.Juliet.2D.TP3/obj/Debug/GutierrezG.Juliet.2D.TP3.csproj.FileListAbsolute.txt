@@ -1,0 +1,16 @@
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\obj\Debug\GutierrezG.Juliet.2D.TP3.csprojAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\obj\Debug\GutierrezG.Juliet.2D.TP3.csproj.CoreCompileInputs.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\GutierrezG.Juliet.2D.TP3.exe.config
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\GutierrezG.Juliet.2D.TP3.exe
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\GutierrezG.Juliet.2D.TP3.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\EntidadesInstanciables.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\Archivo.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\bin\Debug\Archivo.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\obj\Debug\GutierrezG.Juliet.2D.TP3.csproj.CopyComplete
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\obj\Debug\GutierrezG.Juliet.2D.TP3.exe
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\GutierrezG.Juliet.2D.TP3\GutierrezG.Juliet.2D.TP3\obj\Debug\GutierrezG.Juliet.2D.TP3.pdb
