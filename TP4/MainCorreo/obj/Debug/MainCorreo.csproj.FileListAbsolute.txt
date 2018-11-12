@@ -1,0 +1,16 @@
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\Excepciones.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\bin\Debug\Excepciones.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\MainCorreo\obj\Debug\MainCorreo.pdb

@@ -1,0 +1,10 @@
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\bin\Debug\Excepciones.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Entidades\obj\Debug\Entidades.pdb

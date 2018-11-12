@@ -1,0 +1,6 @@
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\JulietA\Documents\Visual Studio 2017\Projects\TP4\Excepciones\obj\Debug\Excepciones.pdb
