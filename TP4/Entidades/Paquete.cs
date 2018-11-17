@@ -105,7 +105,8 @@ namespace Entidades
             }
             catch(Exception ex)
             {
-                EventoException.Invoke(ex);
+                
+                this.EventoException.Invoke(ex);
             }
         }
 

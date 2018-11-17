@@ -21,7 +21,7 @@ namespace EntidadesDAO
         static PaqueteDAO()
         {
             _comando = new SqlCommand();
-            _conexion = new SqlConnection("Data Source=JULIETA-PC/SQLEXPRESS;Initial Catalog=correo-sp-2017;Integrated Security=True");
+            _conexion = new SqlConnection(@"Data Source=JULIETA-PC\SQLEXPRESS;Initial Catalog=correo-sp-2017;Integrated Security=True");
             PaqueteDAO._comando.CommandType = System.Data.CommandType.Text;
             PaqueteDAO._comando.Connection = PaqueteDAO._conexion;
         }
