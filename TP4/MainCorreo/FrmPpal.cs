@@ -136,10 +136,18 @@ namespace MainCorreo
         /// <param name="elemento"></param>
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
+            this.rtbMostrar.Clear();
             if(!(Object.ReferenceEquals(elemento, null)))
             {
                 this.rtbMostrar.Text = elemento.MostrarDatos(elemento).ToString();
-                GuardaString.Guardar(this.rtbMostrar.Text, "salida.txt");
+                try
+                {
+                    GuardaString.Guardar(this.rtbMostrar.Text, "salida.txt");
+                }
+                catch(Exception)
+                {
+                    MessageBox.Show("No se pudo guradar", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
     }

@@ -68,7 +68,7 @@ namespace Entidades
 
             foreach(Paquete p in l)
             {
-                sb.AppendFormat("{0} para {1} {2}", p.TrackingID, p.DireccionEntrega, p.Estado.ToString());
+                sb.AppendFormat("{0} para {1} {2}\n", p.TrackingID, p.DireccionEntrega, p.Estado.ToString());
             }
 
             return sb.ToString();

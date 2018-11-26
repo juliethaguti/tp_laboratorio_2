@@ -119,7 +119,7 @@ namespace Entidades
         {
             Paquete p = (Paquete)elemento;
 
-            return string.Format("{0} para {1}", p.TrackingID, p.DireccionEntrega);
+            return string.Format("\n{0} para {1}", p.TrackingID, p.DireccionEntrega);
         }
 
         /// <summary>
